@@ -1,0 +1,14 @@
+TITANFALL ULTIMATE EXPANSION 0.2.0 - PROYECTO FUENTE (NO JAR)
+
+Este proyecto no se ha compilado ni probado en Minecraft en este entorno.
+Solo implementa huevos de aparición crafteables para 20 entidades existentes de Titan Combat.
+No incluye BT-7274, IA avanzada, pilotaje nuevo ni reconocimiento de voz.
+
+COMPILAR GRATIS EN GITHUB:
+1. Sube el CONTENIDO de esta carpeta a la raíz de un repositorio.
+2. GitHub > Actions > Compilar Titanfall Ultimate Expansion > Run workflow.
+3. Si aparece ticket verde, descarga el artifact y extrae el .jar.
+4. Comprueba el .jar en Minecraft 1.20.1 Forge con Titan Combat 2.10.0.
+5. En Minecraft, menú Mods, busca Titanfall Ultimate Expansion.
+
+Si no aparece, envía el archivo latest.log de .minecraft/logs.
